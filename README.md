@@ -28,35 +28,6 @@ Technology	Usage
 🔧 Apache NetBeans	IDE and project management
 🌿 Git	Version control
 🐙 GitHub	Source code hosting
-📁 Project Structure
-StudentManagementSystem/
-│
-├── 📂 src/
-│   └── 📂 studentmanagementsystem/
-│       │
-│       ├── 📄 Student.java
-│       │   └── Student data model
-│       │
-│       ├── 📄 StudentManagement.java
-│       │   └── Main GUI and CRUD operations
-│       │
-│       └── 📄 StudentManagementSystem.java
-│           └── Additional project class
-│
-├── 📂 nbproject/
-│   └── NetBeans project configuration
-│
-├── 📄 build.xml
-│   └── Ant build configuration
-│
-├── 📄 manifest.mf
-│   └── Application manifest
-│
-├── 📄 .gitignore
-│   └── Excludes generated and private files
-│
-└── 📄 README.md
-    └── Project documentation
 
 ⚙️ Installation & Setup
 Prerequisites
